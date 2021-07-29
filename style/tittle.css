@@ -1,0 +1,15 @@
+.tittle {
+    width: 270px;
+    height: 27px;
+    margin: auto;
+    margin-top: 27px;
+    background-color: #2b2d42;
+    border: 1px solid #2b2d42;
+    border-radius: 5px;
+}
+.tittle h1 {
+    font-size:20px;
+    line-height: 27px;
+    text-align: center;
+    color: #edf2f4;
+}
