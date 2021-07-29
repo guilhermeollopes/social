@@ -1,0 +1,17 @@
+.header {
+    margin-top: 10px;
+    text-align: center;
+}
+.header img {
+    width: 115px;
+}
+#tittle {
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#tittle {
+    font-size:23px;
+    text-align: center;
+    color: #2b2d42;
+}
